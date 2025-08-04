@@ -11,10 +11,10 @@
 
 ## Selected Projects
 
-[**scheme-formal-verification**](https://github.com/dsp-dr/scheme-formal-verification) • TLA+ bridge for Scheme verification  
-[**repomind**](https://github.com/dsp-dr/repomind) • LLM-powered repository analysis  
-[**mit-6851-advanced-data-structures**](https://github.com/dsp-dr/mit-6851-advanced-data-structures) • Functional data structure implementations  
-[**reversible-meta-synthesis**](https://github.com/dsp-dr/reversible-meta-synthesis) • Inductive program synthesis
+[**scheme-formal-verification**](https://github.com/aygp-dr/scheme-formal-verification) • TLA+ bridge for Scheme verification  
+[**repomind**](https://github.com/aygp-dr/repomind) • LLM-powered repository analysis  
+[**mit-6851-advanced-data-structures**](https://github.com/aygp-dr/mit-6851-advanced-data-structures) • Functional data structure implementations  
+[**reversible-meta-synthesis**](https://github.com/aygp-dr/reversible-meta-synthesis) • Inductive program synthesis
 
 ## Connect
 
