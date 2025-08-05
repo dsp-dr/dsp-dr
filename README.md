@@ -1,5 +1,3 @@
-# Daria Pascal
-
 **Functional programming, formal methods, and AI systems research**
 
 ## Current Focus
